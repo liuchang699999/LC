@@ -9,10 +9,16 @@
 
 ## Architecture
 
-# 前端
+# 流程
 参数化 -？？-》 FEA前端 -》 Solver -》输出 -》Postprocess
 
+# 前端
+参数化 -？？-》 FEA前端
+
+输出 -》Postprocess
+
 # 后端
+Solver
 - 基于现有开源求解器
 - 自己编求解器
 
